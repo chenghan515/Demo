@@ -63,6 +63,7 @@ int main()
 	}
 	
 	cout<<fixed<<setprecision(2)<<"\nTotal price :RM "<<T.totalPrice;
+	cout<<fixed<<setprecision(2)<<"\nTotal price :RM "<<T.totalPrice;
 	
 	
 }
